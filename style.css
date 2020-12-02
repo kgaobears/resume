@@ -1,0 +1,89 @@
+body {
+	font-size: 14px;
+	margin:0px;
+	padding: 0px;
+	font-family: Helvetica;
+	line-height: 1.4em;
+	max-width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 24px;
+}
+
+h4 {
+	text-align: center;
+	line-height: 0.3em;
+	font-weight: normal;
+
+}
+
+h5 {
+	float: left;
+}
+
+h6 {
+		float: right;
+
+}
+
+table {
+	width: 100%;
+	border-spacing: 0;
+border-collapse: collapse;
+font-weight: normal
+}
+
+tr>:nth-child(3){ 
+/* your css here */
+align-content: right;
+
+}
+tr>th:nth-child(1){ 
+/* your css here */
+align-content: left;
+
+}
+
+tr {
+		font-weight: normal;
+}
+
+p {
+	line-height: 1.4em;
+	margin: 0px;
+}
+th {
+	text-align: left;font-weight: normal;
+}
+h2 {
+	margin-bottom: 9px;
+}
+
+hr {
+	clear: both;
+}
+
+dd {
+	color: blue;
+}
+
+dt {
+	color: red;
+}
+
+ul {
+	margin: 0px;
+	padding-left: 20px;
+	margin-bottom: 20px;
+}
+
+li {
+	margin: 0px;
+	padding-top: 2px;
+
+}
