@@ -17,14 +17,23 @@ University of California, Berkeley, 2022
 
 Y Combinator Startup School 2020
 
-App Store 2020 (In Progress)
+App Store 2021
 
 - Developed a React Native shopping platform that connects customers through content-based social media, friend-group shopping, user-driven product listings, and dynamically-generated discounts
 - Developed a realtime chat using WebSockets where users can shop together and split costs securely
-* Implemented a neural net recommendation algorithm for most suitable video and product suggestions
+* Implemented a neural net recommendation algorithm to sugges products
 * Created a dedicated email server to send automated emails securely through SFTP ports
-Implemented Firebase, Stripe, and Heroku to handle payment, video storage, and product acquisition
-* Used WebGL and custom shaders to render realtime graphics and UI on the frontend
+* Implemented Firebase, Stripe, and Heroku to handle payment, video storage, and product acquisition
+
+
+| Paypal, Data Engineer Intern ||  July - Aug 2021 |
+|-|:-:|-:|
+
+- Developed realtime alerting system to detect transaction anomalies in Paypal production data
+- Used python and pandas data library for statistical analysis to predict fraud
+- Developed a comprehensive email system to alert Paypal regarding anomalies
+- Deployed system using Docker
+- Set up continuous integration with Jenkins
 
 UC Berkeley | Web Developer | lab.tellab.org, lab2.tellab.org	Oct 2019 - June 2020
 
@@ -58,9 +67,9 @@ Procedural Map Generation | Java
 
 ## SKILLS
 
-Python, Jupyter Notebook, Numpy, Javascript, Java, MATLAB, C, C++, MySQL, MariaDB, MongoDB, Swift, React, React Native, Redux, NodeJs, Puppeteer, Cheerio, jQuery, Tensorflow, Pytorch, IntelliJ, VSCode, Sublime Text, XCode, Eclipse, web scraping, backend development, web design, neural nets, artificial intelligence
+Python, Pandas, Numpy, Javascript, NodeJs, Java, MATLAB, R, C, C++, MySQL, MariaDB, MongoDB, Docker, React Native, backend development
 
 ## HOBBIES
 
-Learning new languages, boxing, 3d animation
+Art, boxing, German
 
