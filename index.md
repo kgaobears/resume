@@ -8,8 +8,9 @@
 ## EDUCATION
 University of California, Berkeley, 2022
 
-- EECS | Electrical Engineering & Computer Science | GPA: 3.68
-- Relevant Courses: Algorithms, Data Structures, Machine Learning, Artificial Intelligence, Deep Neural Nets, Computer Graphics, Computer Security, Probability Theory, Data Science, Multivariable Calculus
+- Major in Electrical Engineering & Computer Science | Minor in Data Science
+- GPA: 3.76 / 4.0
+- Relevant Coursework: Algorithms, Data Structures, Data Science, Machine Learning, Artificial Intelligence, Deep Neural Nets, Computer Graphics, Networking, Computer Security, Probability Theory,  Linear Algebra, Multivariable Calculus
 
 ## WORK EXPERIENCE
 | Flock Shopping Co-Founder, Chief Technical Officer ||  July 2020 - Present |
@@ -52,7 +53,7 @@ Stony Brook University, Materials Science Department  | Research Intern	June - A
 
 - Regional Finalist in 2017 Siemens Competition in Math, Science, and Technology
 - Developed an automatic detection process for doctors to diagnose malignant blood clots
-Used convolutional neural nets to differentiate between background noise and blood fiber cells
+- Used convolutional neural nets to differentiate between background noise and blood fiber cells
 
 ## PROJECTS
 
