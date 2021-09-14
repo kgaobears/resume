@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-pandoc --standalone -c style.css --from markdown --to html -o index.html index.md && wkhtmltopdf --enable-local-file-access index.html resume.pdf
-cp resume.pdf ~/Documents/resume.pdf
+~/Tools/pandoc/pandoc.exe --standalone -c style.css --from markdown --to html -o index.html index.md && ~/Tools/wkhtmltopdf/bin/wkhtmltopdf --enable-local-file-access index.html ~/Documents/resume.pdf
